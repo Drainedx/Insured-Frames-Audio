@@ -1,12 +1,8 @@
-# Insured Frames Audio | Free
+# Insured Frames Audio 
 
 Free Warzone competitive audio. Educational project, no paywall.
 
 ## How it sounds
-
-Short in-game clip so you can hear the footsteps with this stack. Use headphones if you can.
-
-https://github.com/Drainedx/Insured-Frames-Audio-Free/blob/main/assets/footsteps.mp4
 
 ## Official downloads
 
