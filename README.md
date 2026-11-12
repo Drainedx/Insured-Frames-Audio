@@ -9,7 +9,7 @@ Free Warzone competitive audio. Educational project, no paywall.
 Only download Insured Frames Audio from these sources:
 
 - [GitHub Releases](https://github.com/Drainedx/Insured-Frames-Audio-Free/releases) — Insured Tune Drained.exe
-- [VirusTotal report](https://www.virustotal.com/gui/file/61398a4b8817b44c6b3d912c29dac9c5c91e6296da7d8b4385bae4c7b87be6d5/detection)
+- [VirusTotal report](https://www.virustotal.com/gui/file/9a013380ece1e2c38299ca13aca84bc93f73f9681ce4144073181e088a443d65/detection)
 
 Other sites, file lockers, or random Discord links that claim to host this installer are not maintained here. If it did not come from this repository, do not trust it.
 
